@@ -1,0 +1,8 @@
+setup.py
+hello/__init__.py
+hello/oissu.py
+pypi_helloworld.egg-info/PKG-INFO
+pypi_helloworld.egg-info/SOURCES.txt
+pypi_helloworld.egg-info/dependency_links.txt
+pypi_helloworld.egg-info/requires.txt
+pypi_helloworld.egg-info/top_level.txt
